@@ -1,0 +1,13 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #fff8;
+    backdrop-filter: blur(10px) saturate(2);
+    border-bottom: 1px solid #8888;
+    z-index: 9999;
+    margin-bottom: 10px;
+}
+.container {
+    transition: 0.2s;
+}
